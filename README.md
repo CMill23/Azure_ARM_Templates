@@ -103,7 +103,7 @@ Provide the Azure expertise and hands-on experience customers are looking for wi
     - **Object Detection Demo** - IoT Edge / IoT Central / PowerApps
     - **Retail Demo** - The AI on Edge / Geo Data / SQL / Powerapps / ML / IoT Central
     - **IoT infrastructure in a Private Network** 
-    - **SupplyChain ** – IoT Hub / Logic Apps / Digital Twin / Azure Functions / Time Series Insights
+    - **SupplyChain** – IoT Hub / Logic Apps / Digital Twin / Azure Functions / Time Series Insights
 - [MLOps Demos](https://github.com/csiebler/mlops-demo) | This repo shows some introduction examples to Azure Machine Learning and a simple MLOps implemenation for automating model training and deployment.  
 - [Azure Live Purview - Ninja Demo](https://microsoft.sharepoint.com/teams/AzurePurviewCustomerSuccess/SitePages/Purview-Demo-Lab.aspx) | Sandbox Environment for Customer Demos
 - [Data Landing Zone](https://github.com/Azure/data-landing-zone) | The Cloud-scale Analytics Scenario provides a prescriptive data platform design coupled with Azure best practices and design principles - Biceps Deployment
