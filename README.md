@@ -52,6 +52,14 @@ New to IaaC Coding?
 - [Machine Learning - AzureML](https://github.com/Azure/fta-azure-machine-learning)
 
 
+
+## Microsoft Azure Immersion Workshops
+
+Provide the Azure expertise and hands-on experience customers are looking for with our Azure Immersion workshop (AIW) series. Using our ready-made collection of discipline-specific resources and tools, you can quickly and easily start hosting your own day-long customer working sessions to expand your value and drive demand for your solutions.
+
+- [HomePage](https://partner.microsoft.com/en-nz/solutions/azure/aiw)
+
+
 ## OpenHack
 - [Cloud Adoption Framework landing zones for Terraform - Application accelerator](https://github.com/dwnatwick/OpenHack) | Repository with self-guided instructions and/or ARM templates for following Topics:
     - AI-Powered Knowledge Mining
@@ -62,12 +70,16 @@ New to IaaC Coding?
     - Power Platform
     - Serverless
 
+## What The Hack
+
+- [HomePage](https://microsoft.github.io/WhatTheHack/) | “What the Hack” is a set of challenge based hackathons that can be hosted in-person or virtually via Microsoft Teams.
+- [Git Repository](https://github.com/microsoft/WhatTheHack) 
 
 
-## Data & AI
+## Data & AI 
 
  
-- [CSU Data & AI Library](https://docs.microsoft.com/en-us/azure/azure-resource-manager/) | Sharepoint Library containing customer demos & workshop slides for following topics:
+- [CSU Data & AI Library](https://microsoft.sharepoint.com/teams/CSUDataAICommunityIPLibrary/Shared%20Documents/Forms/AllItems.aspx?ga=1&viewid=ab71ea0d%2Dce8e%2D4932%2Da091%2D5173f4ecc8ab) | Sharepoint Library containing customer demos & workshop slides for following topics:
     - AI Building Intelligent Solutions
     - Arc
     - Cosmos DB
@@ -88,10 +100,10 @@ New to IaaC Coding?
     - Demons are downloaded with a guide via a jump off to Gear-up
 - [Microsoft AI & Innovation Portal](https://microsoft.sharepoint.com/teams/MicrosoftAI/AI%20Event%20in%20a%20Box/Forms/AllItemsGrid.aspx?id=%2Fteams%2FMicrosoftAI%2FAI%20Event%20in%20a%20Box%2FDemos) | Internal Sharepoint with Pitch Decks and Excel Overview of Demo Environments / Plays
 - [IoT Demos](https://github.com/Azure-Samples/IoTDemoss) | Repository containing arm or guided end-to-end use IoT use cases: 
-    - Object Detection Demo - IoT Edge / IoT Central / PowerApps
-    - Retail Demo - The AI on Edge / Geo Data / SQL / Powerapps / ML / IoT Central
-    - IoT infrastructure in a Private Network 
-    - SupplyChain  – IoT Hub / Logic Apps / Digital Twin / Azure Functions / Time Series Insights
+    - **Object Detection Demo** - IoT Edge / IoT Central / PowerApps
+    - **Retail Demo** - The AI on Edge / Geo Data / SQL / Powerapps / ML / IoT Central
+    - **IoT infrastructure in a Private Network** 
+    - **SupplyChain ** – IoT Hub / Logic Apps / Digital Twin / Azure Functions / Time Series Insights
 - [MLOps Demos](https://github.com/csiebler/mlops-demo) | This repo shows some introduction examples to Azure Machine Learning and a simple MLOps implemenation for automating model training and deployment.  
 - [Azure Live Purview - Ninja Demo](https://microsoft.sharepoint.com/teams/AzurePurviewCustomerSuccess/SitePages/Purview-Demo-Lab.aspx) | Sandbox Environment for Customer Demos
 - [Data Landing Zone](https://github.com/Azure/data-landing-zone) | The Cloud-scale Analytics Scenario provides a prescriptive data platform design coupled with Azure best practices and design principles - Biceps Deployment
@@ -100,6 +112,8 @@ New to IaaC Coding?
     - [Azure Synapse Analytics](https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI)
     - [Azure Machine Learning and Cognitive Services](https://github.com/microsoft/MCW-Analyzing-text-with-Azure-Machine-Learning-and-Cognitive-Services)
     - [Big data analytics and visualization](https://github.com/microsoft/MCW-Big-data-analytics-and-visualization)
+- [Azure SQL Database DTU Calculator](https://dtucalculator.azurewebsites.net/)
+- [KQL Must-Learn](https://github.com/rod-trent/MustLearnKQL)
 
 ## Apps & Infra
 
@@ -125,9 +139,11 @@ New to IaaC Coding?
 
 ## Other Tools
 
+- [Azure Services Overview](https://azurecharts.com/overview) 
 - [Azure Updates](https://azure.microsoft.com/en-us/updates/?WT.mc_id=AZ-MVP-5004796) 
 - [Azure Infrastructure Map](https://infrastructuremap.microsoft.com/)
 - [Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Rapid Assessment Estimator](https://usdco.azurewebsites.net/Resources.aspx)
 - [Virtual Machines Selector](https://azure.microsoft.com/en-gb/pricing/vm-selector/?WT.mc_id=AZ-MVP-5004796) 
+- [Azure Latency Test](https://www.azurespeed.com/Azure/Latency)
 - [Azure Stackoverflow Space](https://stackoverflow.com/questions/tagged/azure) 
