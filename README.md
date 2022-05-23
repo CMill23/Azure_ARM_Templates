@@ -16,7 +16,7 @@ The Knowledge Centre site is structured as following:
 1. **Build it yourself:** Nowadays, the enterprise standard for cloud implementations is surrounded by Infrastructure-as-a-Code (IaaC) and its a handy way of implementing cloud environments in a clean, versioned and reusable manner. In this section you`ll find pre-existing modular IaaC repositories (e.g. ARM, Biceps or Terraform) to implement your own demo environment. If you are new to IaaC world, we got you, first introductional material you will find as well.
 2. **General Demos & Workshop Content:** Pre-existing official Demo-Repository sources like Fasttrack/Openhack or community based content like "What the Hack".
 3. **Data & AI Topics:** Specific Data & AI Demo Use Cases, Content & Tools.
-4. **Apps & Infra Topics:**Specific Apps & Infra Demo Use Cases, Content & Tools.
+4. **Apps & Infra Topics:** Specific Apps & Infra Demo Use Cases, Content & Tools.
 5. **Other Tools:** Other helpful CSA Tools.
 
 
@@ -146,7 +146,7 @@ Bring your own subscription (BYOS) enables you to participate in a Microsoft Ope
 
 :wrench: **Tools:**
 - [Azure SQL Database DTU Calculator](https://dtucalculator.azurewebsites.net/)
-- :fire: [Sample Data] - to be added
+- :fire: [Azure SQL Database DTU Calculator](hhttps://github.com/CMill23/Azure_ARM_Templates/tree/main/02_Data%20%26%20AI/01_Sample_Data) |  Sample Data in parquet & json
 
 
 ## Apps & Infra Topics
