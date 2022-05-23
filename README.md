@@ -13,8 +13,8 @@
 Build your own Architecture.
 
 - [Common Azure Resource Modules Library](https://github.com/Azure/ResourceModules) | This repository includes a library of mature and curated Bicep modules as well as a Continuous Integration (CI) environment leveraged for modules validation and versioned publishing.
-- [ARM Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) | This repo contains all currently available Azure Resource Manager templates contributed by the community. A searchable template index is maintained at azure.com.
-- [Terraform Quickstart Templates](https://github.com/Azure/terraform/tree/master/quickstart) | This repo contains all currently available Azure Terraform templates contributed by the community.
+- [ARM Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) | This repository contains all currently available Azure Resource Manager templates contributed by the community. A searchable template index is maintained at azure.com.
+- [Terraform Quickstart Templates](https://github.com/Azure/terraform/tree/master/quickstart) | This repository contains all currently available Azure Terraform templates contributed by the community.
 - [Cloud Adoption Framework landing zones for Terraform - Application accelerator](https://github.com/Azure/caf-terraform-landingzones-accelerator) | This repo contains terraform setup for deploying an enterprise CAF setup
 
 ### IaaC Learning
@@ -55,25 +55,31 @@ New to IaaC Coding?
 
 ## Microsoft Azure Immersion Workshops
 
-Provide the Azure expertise and hands-on experience customers are looking for with our Azure Immersion workshop (AIW) series. Using our ready-made collection of discipline-specific resources and tools, you can quickly and easily start hosting your own day-long customer working sessions to expand your value and drive demand for your solutions.
+Help customers expand their Microsoft Azure expertise with hands-on experience. Provide the Azure expertise and hands-on experience customers are looking for with our Azure Immersion workshop (AIW) series. Using our ready-made collection of discipline-specific resources and tools, you can quickly and easily start hosting your own day-long customer working sessions to expand your value and drive demand for your solutions.
 
 - [HomePage](https://partner.microsoft.com/en-nz/solutions/azure/aiw)
 
 
 ## OpenHack
-- [Cloud Adoption Framework landing zones for Terraform - Application accelerator](https://github.com/dwnatwick/OpenHack) | Repository with self-guided instructions and/or ARM templates for following Topics:
+
+Bring your own subscription (BYOS) enables you to participate in a Microsoft OpenHack using your own Azure subscriptions
+
+- [Cloud Adoption Framework landing zones for Terraform - Application accelerator](https://github.com/dwnatwick/OpenHack/tree/main/byos) | Repository with self-guided instructions and/or ARM templates for following Topics:
     - AI-Powered Knowledge Mining
     - App Modernization with NoSQL
     - Containers
-    - DevOps 2.0
+    - DevOps 2.0f
     - Modern Data Warehousing
     - Power Platform
     - Serverless
 
 ## What The Hack
 
+“What the Hack” is a set of challenge based hackathons that can be hosted in-person or virtually via Microsoft Teams.
+
 - [HomePage](https://microsoft.github.io/WhatTheHack/) | “What the Hack” is a set of challenge based hackathons that can be hosted in-person or virtually via Microsoft Teams.
 - [Git Repository](https://github.com/microsoft/WhatTheHack) 
+
 
 
 ## Data & AI 
