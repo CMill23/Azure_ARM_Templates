@@ -7,14 +7,17 @@
 
 :octocat: *"Uhm, I think I we should have something like this - But Im not sure where"*
 
-Conversations like this or similar might have come across in a CSA daily work - The tool & demo landscape within Microsoft is vast and mostly intransparent and its quite time consuming to browse through all the pre-existing resources. Thats something we`d like to tackle with the CSA Knowledge Center.
+Conversations like this or similar might have come across in a CSAs daily work - The tool & demo landscape within Microsoft is vast and mostly intransparent and its quite time consuming to browse through all the pre-existing resources. Thats something we`d like to tackle with the CSA Knowledge Center.
 
 The goal of it is to provide a **One-Stop-Shop experience** with pre-existing Tools/Demos/Content for technical ramp-ups / hands-on experience and implementing Azure demo environments for upcoming customer presentations / workhops. Basically a handy glossary to browse through if you are searching for any particular use case / setup you`d like to deploy & educate yourself on.
 
-The Knowledge Centere site is section is X Topics:
+The Knowledge Centre site is structured as following:
 
 1. **Build it yourself:** Nowadays, the enterprise standard for cloud implementations is surrounded by Infrastructure-as-a-Code (IaaC) and its a handy way of implementing cloud environments in a clean, versioned and reusable manner. In this section you`ll find pre-existing modular IaaC repositories (e.g. ARM, Biceps or Terraform) to implement your own demo environment. If you are new to IaaC world, we got you, first introductional material you will find as well.
-2. **Workshop:** Pre-existing Demo-Enviornment 
+2. **General Demos & Workshop Content:** Pre-existing official Demo-Repository sources like Fasttrack/Openhack or community based content like "What the Hack".
+3. **Data & AI Topics:** Specific Data & AI Demo Use Cases, Content & Tools.
+4. **Apps & Infra Topics:**Specific Apps & Infra Demo Use Cases, Content & Tools.
+5. **Other Tools:** Other helpful CSA Tools.
 
 
 #### Tag Map:
@@ -31,8 +34,8 @@ Tags will help you to to get a first orientation where the links will lead you t
 
 - [Common Azure Resource Modules Library](https://github.com/Azure/ResourceModules) |  This repository includes a library of mature and curated Bicep modules as well as a Continuous Integration (CI) environment leveraged for modules validation and versioned publishing.
 - [ARM Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) | This repository contains all currently available Azure Resource Manager templates contributed by the community. A searchable template index is maintained at azure.com.
-- [Terraform Quickstart Templates](https://github.com/Azure/terraform/tree/master/quickstart) | This repository contains all currently available Azure Terraform templates contributed by the community.
-- [Cloud Adoption Framework landing zones for Terraform - Application accelerator](https://github.com/Azure/caf-terraform-landingzones-accelerator) | This repo contains terraform setup for deploying an enterprise CAF setup
+- [Terraform Quickstart Templates](https://github.com/Azure/terraform/tree/master/quickstart) | This repository contains all currently available Azure Terraform templates. contributed by the community.
+- [Cloud Adoption Framework landing zones for Terraform - Application accelerator](https://github.com/Azure/caf-terraform-landingzones-accelerator) | This repo contains terraform setup for deploying an enterprise CAF setup.
 
 ### IaaC Learning :books:
 
