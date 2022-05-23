@@ -20,10 +20,9 @@ The Knowledge Centere site is section is X Topics:
 #### Tag Map:
 
 Tags will help you to to get a first orientation where to links will lead you to<br>
-<font color='grey'>**Repository**</font> - GitRepos  <br>
-<font color='yellow'>**Content**</font> - Homepage/Sharepoint <br>
-<font color='green'>**Tools**</font> -  <br>
-
+:notebook: - **Repository**  
+:books: - **Content**
+:wrench: - **Others Tools**
 
 
 ## Build it yourself - IaaC Repositories
@@ -45,22 +44,3 @@ Tags will help you to to get a first orientation where to links will lead you to
 
 ## Workshop 
 
-
-:smile: :heart_eyes: :wink: :expressionless: :scream: :rage: :pensive: :sob: :joy: :mask:
-:heart: :fire: :poop:
-:+1: :-1: :raised_hands: :point_up:
-
-
-<div id="hello" class="greeting message" style="color: red;">
-  Hello <strong>world</strong>!
-</div>
-
-<div class="verbatim">
-We show some <em>verbatim</em> text here.
-</div>
-
-:::: {.infobox .warning data-latex="warning"}
-
-Include the actual content here.
-
-::::
