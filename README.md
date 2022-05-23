@@ -146,7 +146,7 @@ Bring your own subscription (BYOS) enables you to participate in a Microsoft Ope
 
 :wrench: **Tools:**
 - [Azure SQL Database DTU Calculator](https://dtucalculator.azurewebsites.net/)
-- :fire: [Azure SQL Database DTU Calculator](hhttps://github.com/CMill23/Azure_ARM_Templates/tree/main/02_Data%20%26%20AI/01_Sample_Data) |  Sample Data in parquet & json
+- :fire: [Sample Data](https://github.com/CMill23/Azure_ARM_Templates/tree/main/02_Data%20%26%20AI/01_Sample_Data) |  Sample Data in parquet & json
 
 
 ## Apps & Infra Topics
