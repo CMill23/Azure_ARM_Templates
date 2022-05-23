@@ -101,6 +101,13 @@ Bring your own subscription (BYOS) enables you to participate in a Microsoft Ope
 - :notebook: [Git Repository](https://github.com/microsoft/WhatTheHack) 
 
 
+### Microsoft Cloud Workshop
+
+Is a hands-on community development experience offering customer-ready content from the Intelligent Cloud Architect Boot Camp and event materials to host your own event with your customers and/or partners
+
+- :books:[Microsoft Cloud Workshop - Homepage](https://microsoft.sharepoint.com/teams/Microsoft-Cloud-Workshop?xsdata=MDV8MDF8fDNjYWRmMGM4ZGYwMzQ0Mzc1ZmQxMDhkYTFiYzdiZDAyfDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2Mzc4NTI4NDE5MDk4Mzc3Nzd8R29vZHxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVGs2YldWbGRHbHVaMTlOZWxacFQxUldhRTE2VFhSYWFsbDVXbWt3TUZsdFVtbE1WR3N4VG5wUmRFOVVTVEZOVkZrd1drZFpNMDFxWXpOQWRHaHlaV0ZrTG5ZeXx8&sdata=YWx0NEhQSVpkQmFiMWlFaTBwY2dDUUhmQ2JaRHdDOTNXbnBxQ2pqQ1A1VT0%3D&ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cchmueller%40microsoft.com) 
+
+
 ## Data & AI Topics
 
 :books: **Demo Environments & Content:**
@@ -125,7 +132,6 @@ Bring your own subscription (BYOS) enables you to participate in a Microsoft Ope
     - Interactive Guides with Data & AI Product Demo, Salesplaybooks showcases
     - Demons are downloaded with a guide via a jump off to Gear-up
 - [Microsoft AI & Innovation Portal](https://microsoft.sharepoint.com/teams/MicrosoftAI/AI%20Event%20in%20a%20Box/Forms/AllItemsGrid.aspx?id=%2Fteams%2FMicrosoftAI%2FAI%20Event%20in%20a%20Box%2FDemos) | Internal Sharepoint with Pitch Decks and Excel Overview of Demo Environments / Plays
-- [Microsoft Cloud Workshop](https://microsoft.sharepoint.com/teams/Microsoft-Cloud-Workshop?xsdata=MDV8MDF8fDNjYWRmMGM4ZGYwMzQ0Mzc1ZmQxMDhkYTFiYzdiZDAyfDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2Mzc4NTI4NDE5MDk4Mzc3Nzd8R29vZHxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVGs2YldWbGRHbHVaMTlOZWxacFQxUldhRTE2VFhSYWFsbDVXbWt3TUZsdFVtbE1WR3N4VG5wUmRFOVVTVEZOVkZrd1drZFpNMDFxWXpOQWRHaHlaV0ZrTG5ZeXx8&sdata=YWx0NEhQSVpkQmFiMWlFaTBwY2dDUUhmQ2JaRHdDOTNXbnBxQ2pqQ1A1VT0%3D&ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cchmueller%40microsoft.com) | is a hands-on community development experience offering customer-ready content from the Intelligent Cloud Architect Boot Camp and event materials to host your own event with your customers and/or partners.
 - [KQL Must-Learn](https://github.com/rod-trent/MustLearnKQL) 
 
 
@@ -155,7 +161,6 @@ Bring your own subscription (BYOS) enables you to participate in a Microsoft Ope
 - [AKS Bicep Accelerator](https://docs.microsoft.com/en-us/azure/azure-resource-manager/) | Setup Azure Kubernetes Services workloads with flexible biceps templating approach
 - [Azure Arc Jumpstart](https://docs.microsoft.com/en-us/azure/azure-resource-manager/) | The Jumpstart provides step-by-step guides for independent Azure Arc scenarios that incorporate as much automation as possible
 - [CAF Landing Zones](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options#implementation-options) | CAF MS option list and template ready-to-use templates
-- [Microsoft Cloud Workshop](https://microsoft.sharepoint.com/teams/Microsoft-Cloud-Workshop?xsdata=MDV8MDF8fDNjYWRmMGM4ZGYwMzQ0Mzc1ZmQxMDhkYTFiYzdiZDAyfDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2Mzc4NTI4NDE5MDk4Mzc3Nzd8R29vZHxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVGs2YldWbGRHbHVaMTlOZWxacFQxUldhRTE2VFhSYWFsbDVXbWt3TUZsdFVtbE1WR3N4VG5wUmRFOVVTVEZOVkZrd1drZFpNMDFxWXpOQWRHaHlaV0ZrTG5ZeXx8&sdata=YWx0NEhQSVpkQmFiMWlFaTBwY2dDUUhmQ2JaRHdDOTNXbnBxQ2pqQ1A1VT0%3D&ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cchmueller%40microsoft.com) | is a hands-on community development experience offering customer-ready content from the Intelligent Cloud Architect Boot Camp and event materials to host your own event with your customers and/or partners.
 
 
 :notebook: **Repositories:**
