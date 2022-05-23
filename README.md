@@ -81,7 +81,6 @@ Bring your own subscription (BYOS) enables you to participate in a Microsoft Ope
 - [Git Repository](https://github.com/microsoft/WhatTheHack) 
 
 
-
 ## Data & AI 
 
  
