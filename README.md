@@ -92,6 +92,7 @@ Bring your own subscription (BYOS) enables you to participate in a Microsoft Ope
     - Modern Data Warehousing
     - Power Platform
     - Serverless
+- [Current Openhack Material](https://microsoft.sharepoint.com/teams/ESIDeliveryInfo/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=Se0ZFs&cid=5293f459%2D9b91%2D4c1d%2D8cd2%2De0819994a384&RootFolder=%2Fteams%2FESIDeliveryInfo%2FShared%20Documents%2FOpenHackResources%2FMaterials%20%26%20Solutions%20by%20Topic&FolderCTID=0x012000B6394EA1D2FEAA4DBE6D259DA6AFA69F) 
 
 ### What The Hack
 
