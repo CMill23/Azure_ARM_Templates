@@ -102,6 +102,13 @@ Bring your own subscription (BYOS) enables you to participate in a Microsoft Ope
 - :notebook: [Git Repository](https://github.com/microsoft/WhatTheHack) 
 
 
+### MicroHack
+
+A MicroHack is a small workshop, less than four hours, where you’ll get hands-on experience and solve different challenges to better understand a certain technology / topic. Let’s say, it’s the mini Version of an OpenHack which focuses on real life scenario or transformation.
+
+- :notebook: [Git Repository](https://github.com/microsoft/MicroHack) 
+
+
 ### Microsoft Cloud Workshop
 
 Is a hands-on community development experience offering customer-ready content from the Intelligent Cloud Architect Boot Camp and event materials to host your own event with your customers and/or partners
