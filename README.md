@@ -97,7 +97,7 @@ Bring your own subscription (BYOS) enables you to participate in a Microsoft Ope
 ### What The Hack
 
 “What the Hack” is a set of challenge based hackathons that can be hosted in-person or virtually via Microsoft Teams.
-
+f
 - :books:[HomePage](https://microsoft.github.io/WhatTheHack/) 
 - :notebook: [Git Repository](https://github.com/microsoft/WhatTheHack) 
 
@@ -167,12 +167,12 @@ Is a hands-on community development experience offering customer-ready content f
 ## Apps & Infra Topics
 
 :books: **Content & Scenarios:**
-- [AKS Bicep Accelerator](https://docs.microsoft.com/en-us/azure/azure-resource-manager/) | Setup Azure Kubernetes Services workloads with flexible biceps templating approach
-- [Azure Arc Jumpstart](https://docs.microsoft.com/en-us/azure/azure-resource-manager/) | The Jumpstart provides step-by-step guides for independent Azure Arc scenarios that incorporate as much automation as possible
+- [Azure Arc Jumpstart](https://azurearcjumpstart.io/overview/) | The Jumpstart provides step-by-step guides for independent Azure Arc scenarios that incorporate as much automation as possible
 - [CAF Landing Zones](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options#implementation-options) | CAF MS option list and template ready-to-use templates
 
 
 :notebook: **Repositories:**
+- [AKS Bicep Accelerator](https://github.com/Azure/AKS-Construction) | Setup Azure Kubernetes Services workloads with flexible biceps templating approach
 - [CAF Landing Zones - Terraform](https://github.com/Azure/caf-terraform-landingzones) | Terraform Repo to deploy landing zones
 - [Azure Landing Zones (ALZ) ](https://github.com/Azure/ALZ-Bicep) | Bicep modules that help deliver and deploy the Azure Landing Zone conceptual architecture in a modular approach.
 - [Deploying Enterprise-Scale Architecture in your own environment](https://github.com/Azure/caf-terraform-landingzones) | In this repository we are providing the following four templates representing different scenarios composed using ARM templates:
@@ -181,8 +181,8 @@ Is a hands-on community development experience offering customer-ready content f
     - **WingTip:**	Azure without hybrid connectivity
     - **Trey Research:** On-premises connectivity with Hub and Spoke for small Enterprises
     - **Azure Gov:** Reference implementation that can be deployed to Azure gov and includes all options in a converged experience
-- [Microsoft Defender for Cloud](https://github.com/Azure/caf-terraform-landingzones) | (formerly known as Azure Security Center) community repository.
-- [Azure Connectivity Toolkit (AzureCT)](https://github.com/Azure/caf-terraform-landingzones) | GitRepo with modules for Network Performance Testing  & Network Availability Testing
+- [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) | (formerly known as Azure Security Center) community repository.
+- [Azure Connectivity Toolkit (AzureCT)](https://github.com/Azure/NetworkMonitoring/tree/main/AzureCT) | GitRepo with modules for Network Performance Testing  & Network Availability Testing
 - [App Service Landing Zone Accelerator](https://github.com/Azure/appservice-landing-zone-accelerator) | Landing Zone Accelerator for App Service based on ARM Templates
 - [Azure Virtual Desktop - Micro Hack](https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/01_Azure_Virtual_Desktop) | This hack is designed to help you get hands-on experience with Azure Virtual Desktop (AVD)
 - [Building a resilient IaaS architecture](https://github.com/Microsoft/MCW-Building-A-Resilient-IaaS-Architecture)
