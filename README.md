@@ -13,7 +13,7 @@ The goal of it is to provide a **One-Stop-Shop experience** with pre-existing To
 
 The Knowledge Centre site is structured as following:
 
-1. **Build it yourself:** Nowadays, the enterprise standard for cloud implementations is surrounded by Infrastructure-as-a-Code (IaaC) and its a handy way of implementing cloud environments in a clean, versioned and reusable manner. In this section you`ll find pre-existing modular IaaC repositories (e.g. ARM, Biceps or Terraform) to implement your own demo environment. If you are new to IaaC world, we got you, first introductional material you will find as well.
+1. **Build it yourself:** Nowadays, the enterprise standard for cloud implementations is surrounded by Infrastructure-as-a-Code (IaC) and its a handy way of implementing cloud environments in a clean, versioned and reusable manner. In this section you`ll find pre-existing modular IaC repositories (e.g. ARM, Biceps or Terraform) to implement your own demo environment. If you are new to IaC world, we got you, first introductional material you will find as well.
 2. **General Demos & Workshop Content:** Pre-existing official Demo-Repository sources like Fasttrack/Openhack or community based content like "What the Hack".
 3. **Data & AI Topics:** Specific Data & AI Demo Use Cases, Content & Tools.
 4. **Apps & Infra Topics:** Specific Apps & Infra Demo Use Cases, Content & Tools.
@@ -28,18 +28,18 @@ Tags will help you to to get a first orientation where the links will lead you t
 :wrench: - **Cool Tool Sites**
 
 
-## Build it yourself - IaaC Repositories
+## Build it yourself - IaC Repositories
 
-### IaaC Repository Templates :notebook: 
+### IaC Repository Templates :notebook: 
 
 - [Common Azure Resource Modules Library](https://github.com/Azure/ResourceModules) |  This repository includes a library of mature and curated Bicep modules as well as a Continuous Integration (CI) environment leveraged for modules validation and versioned publishing.
 - [ARM Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) | This repository contains all currently available Azure Resource Manager templates contributed by the community. A searchable template index is maintained at azure.com.
 - [Terraform Quickstart Templates](https://github.com/Azure/terraform/tree/master/quickstart) | This repository contains all currently available Azure Terraform templates. contributed by the community.
 - [Cloud Adoption Framework landing zones for Terraform - Application accelerator](https://github.com/Azure/caf-terraform-landingzones-accelerator) | This repo contains terraform setup for deploying an enterprise CAF setup.
 
-### IaaC Learning :books:
+### IaC Learning :books:
 
-- [What is Infrastructure as Code?](https://docs.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code) | New to IaaC - go check out this documentation!
+- [What is Infrastructure as Code?](https://docs.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code) | New to IaC - go check out this documentation!
 - [Terraform Documenation](https://www.terraform.io/) | Official Teraform Documentation
 - [BicepsDocumenation](https://docs.microsoft.com/EN-US/azure/azure-resource-manager/bicep/) | Official Biceps Documentation
 - [ARM Documenation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/) | Official ARM Documentation
@@ -80,7 +80,7 @@ Help customers expand their Microsoft Azure expertise with hands-on experience. 
 - [HomePage](https://partner.microsoft.com/en-nz/solutions/azure/aiw)
 
 
-### OpenHack :notebook:
+### OpenHack PlatformIaa:notebook:
 
 Bring your own subscription (BYOS) enables you to participate in a Microsoft OpenHack using your own Azure subscriptions. The documentation in this repository provides guidance on how to setup each OpenHack in your subscription as well as an overview of some of the differences you will see when interacting with the coach and attendee portals of OpenHack when using your own subscription.
 
