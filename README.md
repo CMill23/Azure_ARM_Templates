@@ -97,7 +97,7 @@ Bring your own subscription (BYOS) enables you to participate in a Microsoft Ope
 ### What The Hack
 
 “What the Hack” is a set of challenge based hackathons that can be hosted in-person or virtually via Microsoft Teams.
-f
+
 - :books:[HomePage](https://microsoft.github.io/WhatTheHack/) 
 - :notebook: [Git Repository](https://github.com/microsoft/WhatTheHack) 
 
@@ -145,18 +145,18 @@ Is a hands-on community development experience offering customer-ready content f
 
 
 :notebook: **Repositories:**
-- [IoT Demos](https://github.com/Azure-Samples/IoTDemoss) | Repository containing arm or guided end-to-end use IoT use cases: 
+- [IoT Demos](https://github.com/Azure-Samples/IoTDemos) | Repository containing arm or guided end-to-end use IoT use cases: 
     - **Object Detection Demo** - IoT Edge / IoT Central / PowerApps
     - **Retail Demo** - The AI on Edge / Geo Data / SQL / Powerapps / ML / IoT Central
     - **IoT infrastructure in a Private Network** 
     - **SupplyChain** – IoT Hub / Logic Apps / Digital Twin / Azure Functions / Time Series Insights
 - [MLOps Demos](https://github.com/csiebler/mlops-demo) | This repo shows some introduction examples to Azure Machine Learning and a simple MLOps implemenation for automating model training and deployment.  
 - [Data Landing Zone](https://github.com/Azure/data-landing-zone) | The Cloud-scale Analytics Scenario provides a prescriptive data platform design coupled with Azure best practices and design principles - Biceps Deployment
-- [Synapse Machine Learning](https://github.com/Azure/data-landing-zone) | SynapseML (previously MMLSpark) is an open source library to simplify the creation of scalable machine learning pipelines. SynapseML builds on Apache Spark and SparkML.
+- [Synapse Machine Learning](https://github.com/microsoft/SynapseML) | SynapseML (previously MMLSpark) is an open source library to simplify the creation of scalable machine learning pipelines. SynapseML builds on Apache Spark and SparkML.
 - [Azure Synapse Analytics](https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI)
 - [Azure Machine Learning and Cognitive Services](https://github.com/microsoft/MCW-Analyzing-text-with-Azure-Machine-Learning-and-Cognitive-Services)
 - [Big data analytics and visualization](https://github.com/microsoft/MCW-Big-data-analytics-and-visualization)
-- [KQL Must-Learn](https://github.com/rod-trent/MustLearnKQL) | Learning source for 
+- [KQL Must-Learn](https://github.com/rod-trent/MustLearnKQL) | Learning Source for Kusto Query
 
 
 :wrench: **Tools:**
