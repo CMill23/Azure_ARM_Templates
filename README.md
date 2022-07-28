@@ -140,6 +140,7 @@ Is a hands-on community development experience offering customer-ready content f
     - Interactive Guides with Data & AI Product Demo, Salesplaybooks showcases
     - Demons are downloaded with a guide via a jump off to Gear-up
 - [Microsoft AI & Innovation Portal](https://microsoft.sharepoint.com/teams/MicrosoftAI/AI%20Event%20in%20a%20Box/Forms/AllItemsGrid.aspx?id=%2Fteams%2FMicrosoftAI%2FAI%20Event%20in%20a%20Box%2FDemos) | Internal Sharepoint with Pitch Decks and Excel Overview of Demo Environments / Plays
+- [IoT Demo MegaMap](https://azure-iot-megamap.azurewebsites.net/dashboard) 
 - [ADX Data Explorer](https://microsofteur.sharepoint.com/teams/AzureDataExplorerADXprojectKustoPG/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FAzureDataExplorerADXprojectKustoPG%2FShared%20Documents%2FGeneral%2FField%20Enablement%2FDemos&p=true&ga=1) 
 - [KQL Must-Learn](https://github.com/rod-trent/MustLearnKQL) 
 
